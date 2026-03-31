@@ -31,7 +31,7 @@
 
 ## 域名配置
 - **自定义域名**: tm.cflts.dpdns.org (访问地址)
-- **Worker URL**: https://tm.cflts.dpdns.org
+- **Worker URL**: https://ixi.qzz.io
 - **邮箱后缀域名**: 
   - cflts.dpdns.org ✅
   - tiktak.dpdns.org ✅
